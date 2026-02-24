@@ -1,5 +1,3 @@
-// import { useState } from "react";
-// import { quizQuestions } from "./quizQuestions";
 import Button from "./Button";
 
 export default function QuizScreen({ index, questions, onAnswerSelect }) {
